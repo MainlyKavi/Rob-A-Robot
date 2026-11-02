@@ -4,7 +4,7 @@ This file is the single source of truth for Claude Code and Codex. `CLAUDE.md` i
 
 ## The game
 
-Rob a Robot is a Roblox game written in Luau. Players collect robots, which earn cash over time. They spend cash on more robots and upgrades, and can optionally steal robots from other players. Design doc: `docs/design/game-design.md`. Current tasks: `docs/tasks/backlog.md`.
+Rob a Robot is a Roblox game written in Luau. Players steal robots from NPC facilities (robbing is the core mechanic), carry them home, and the robots earn cash over time. Cash buys heist gear, pads, vault doors and new facilities, never robots. Optional Raid Mode lets players borrow each other's robots for a while; robots always return to their owner. Design doc: `docs/design/game-design.md` (with `economy.md`, `monetization.md`, `research.md`, `technical-architecture.md` next to it). Milestones: `docs/tasks/roadmap.md`. Current tasks: `docs/tasks/backlog.md`.
 
 ## Non-negotiable rules
 

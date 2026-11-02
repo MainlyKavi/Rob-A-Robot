@@ -9,9 +9,9 @@ src/Server/    -> ServerScriptService.Server            (server systems)
 src/Client/    -> StarterPlayer.StarterPlayerScripts.Client
 src/Client/UI/ -> UI scripts (ScreenGuis themselves stay in the place)
 src/Shared/    -> ReplicatedStorage.Shared              (config, types, helpers)
-docs/design/   game design
-docs/tasks/    backlog and feature plans
-tools/         helper scripts (place backups)
+docs/design/   game design, economy, monetization, research, technical architecture
+docs/tasks/    roadmap, backlog and milestone plans
+tools/         helper scripts (place backups, economy simulation)
 backups/       local .rbxl backups (git-ignored)
 .claude/skills/ project skills for Claude Code
 ```
