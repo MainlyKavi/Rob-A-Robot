@@ -20,7 +20,7 @@ backups/       local .rbxl backups (git-ignored)
 
 1. Open the Rob a Robot place in Studio.
 2. In Explorer, create three Folders: `Server` in ServerScriptService, `Client` in StarterPlayer > StarterPlayerScripts, `Shared` in ReplicatedStorage.
-3. Right-click `Server` > **Sync to…** > pick `D:\Kavi Vids\Coding prj\Rob a Robot\src\Server` > Save. Repeat for `Client` -> `src\Client` and `Shared` -> `src\Shared`.
+3. Right-click each of `Server`, `Client` and `Shared` > **Sync to…** > pick the `src` folder itself (`D:\Kavi Vids\Coding prj\Rob a Robot\src`) > Save. Studio creates the `Server`/`Client`/`Shared` subfolder inside it; picking `src\Server` would nest it as `src\Server\Server`.
 4. If a conflict dialog appears, read the lists carefully. On first setup the disk folders are empty, so choose **Keep Studio**: nothing is lost and Studio's scripts get written to disk.
 5. Install the **Luau Language Server Companion** plugin from the Creator Store (the publisher is JohnnyMorganz), then click it in the Plugins tab while VS Code is open. This gives VS Code the game's Explorer tree for autocomplete.
 
