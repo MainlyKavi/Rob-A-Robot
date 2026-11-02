@@ -1,0 +1,25 @@
+# Full place files: back these up separately (see README "Backups")
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+backups/*
+!backups/.gitkeep
+
+# Generated
+roblox.yml
+sourcemap.json
+
+# Secrets and local settings
+.env
+.env.*
+*.key
+*.pem
+.claude/settings.local.json
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.log

@@ -1,0 +1,15 @@
+{
+	"luau-lsp.platform.type": "roblox",
+	"luau-lsp.plugin.enabled": true,
+	"luau-lsp.sourcemap.enabled": false,
+	"luau-lsp.completion.imports.enabled": true,
+	"luau-lsp.diagnostics.workspace": true,
+	"[luau]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua",
+		"editor.formatOnSave": true,
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
+	"files.eol": "\n",
+	"files.insertFinalNewline": true
+}
