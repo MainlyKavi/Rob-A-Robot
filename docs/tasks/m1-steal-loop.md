@@ -1,6 +1,6 @@
 # M1: Steal loop (grey-box, no saving)
 
-Status: **ready for implementation once the user approves.** Owner: Codex. Reviewer: Claude Code.
+Status: **approved 2026-11-08.** Owner: Codex. Reviewer: Claude Code.
 Design: [game-design.md](../design/game-design.md) sections 2, 6, 11 · Architecture: [technical-architecture.md](../design/technical-architecture.md) · Numbers: [economy.md](../design/economy.md)
 
 ## Goal

@@ -1,6 +1,6 @@
 # Rob a Robot: game design
 
-Status: blueprint v1 (2026-11-02), waiting for the user's approval before implementation starts.
+Status: blueprint v1 (2026-11-02), approved 2026-11-08.
 Numbers live in [economy.md](economy.md) and, once built, in `src/Shared/Config/`. This doc says *what* and *why*.
 
 Related docs: [economy](economy.md) · [monetization](monetization.md) · [research and evidence](research.md) · [technical architecture](technical-architecture.md) · [roadmap](../tasks/roadmap.md) · [first milestone](../tasks/m1-steal-loop.md)
